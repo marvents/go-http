@@ -3,7 +3,6 @@ package db
 import (
 	"fmt"
 	"os"
-
 	"github.com/jmoiron/sqlx"
 	_ "github.com/lib/pq"
 )
